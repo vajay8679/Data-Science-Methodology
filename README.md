@@ -9,3 +9,7 @@ https://labs.cognitiveclass.ai/tools/jupyterlab/lab/tree/labs/DS0103EN/DS0103EN-
 lab-3
 From Understanding to Preparation
 https://labs.cognitiveclass.ai/tools/jupyterlab/lab/tree/labs/DS0103EN/DS0103EN-3-3-1-From-Understanding-to-Preparation-v2.0.ipynb?lti=true
+
+From Modeling to Evaluation
+lab-4
+https://labs.cognitiveclass.ai/tools/jupyterlab/lab/tree/labs/DS0103EN/DS0103EN-4-4-1-From-Modeling-to-Evaluation-v2.0.ipynb?lti=true
